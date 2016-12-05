@@ -23,7 +23,7 @@ class sendEmail
                     protected PasswordAuthentication getPasswordAuthentication() 
                     {
 
-                        return new PasswordAuthentication("vote.evote@gmail.com" ,"evoteadmin12");
+                        return new PasswordAuthentication("****.*****@gmail.com" ,"************");
 
                     }
 

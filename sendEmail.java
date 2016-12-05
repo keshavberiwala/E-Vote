@@ -23,7 +23,7 @@ class sendEmail
                     protected PasswordAuthentication getPasswordAuthentication() 
                     {
 
-                        return new PasswordAuthentication("****.*****@gmail.com" ,"************"); //email id and password not shown here
+                        return new PasswordAuthentication("**********@gmail.com" ,"************"); //email id and password not shown here
 
                     }
 
